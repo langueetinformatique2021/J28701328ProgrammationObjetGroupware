@@ -1,4 +1,4 @@
-package atelier_05;
+package atelier05;
 
 public class testDate {
 
