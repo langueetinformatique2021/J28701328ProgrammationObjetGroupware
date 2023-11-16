@@ -1,5 +1,7 @@
 package atelier05;
 
+import util.Keyboard;
+
 public class testDate {
 
 	/** point d'entrée d'un exécutable */

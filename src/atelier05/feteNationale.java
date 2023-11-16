@@ -1,5 +1,7 @@
 package atelier05;
 
+import util.Keyboard;
+
 public class feteNationale {
 
 	public static void main(String[] args) {
