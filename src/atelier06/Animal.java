@@ -20,6 +20,7 @@ public abstract class Animal {
 	public void présente() {
 		System.out.println("je suis un représentant de l'espèce des " + espèce + " et j'ai " + nb_pattes + " pattes");
 	}
+
 	/** cri de l'animal */
 	public abstract void crie();
 }

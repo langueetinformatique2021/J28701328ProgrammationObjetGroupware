@@ -1,7 +1,7 @@
 package atelier06;
 
 //Classe Arbre qui hérite de Végétal
-public class Arbre extends Vegetal {
+public class Arbre extends Végétal {
  // Attributs, méthodes, constructeurs, etc., propres à la classe Arbre
 
  // Exemple d'attribut
